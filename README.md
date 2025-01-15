@@ -5,3 +5,5 @@ Role: Freelance Developer – Independently designed and implemented the Quiz We
 and user-friendly layout.
 
 Tools and Technologies Used: HTML | CSS | JS | Netlify | Visual Studio
+
+Link for the Quiz Website: https://mellifluous-arithmetic-900367.netlify.app/
